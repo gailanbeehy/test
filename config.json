@@ -1,0 +1,65 @@
+{
+    "prefix": "$",
+    "token": null,
+    "clientID": "740132356744282124",
+    "guildID": "1122173778043084933",
+  "youtubeCookie": "",
+    "spotify_api": {
+        "enabled": true,
+        "clientId": "2d2becbcf53a4d778770758c6f9d4a67",
+        "clientSecret": "3047e7fbded34ff887a109cd47877338"
+    },
+
+  
+ "staffroom": "1189720172773261372",
+    "applyroom": "1189720172773261372",
+ "zstaffroom": "1189720172773261372",
+    "zapply":"1188930540003414026",
+  "apply":"1189720172773261372",
+  "botroom": "1189720172773261372",
+  "botlog": "1189720172773261372",
+  "bq1": "What's Your Bot Name?",
+  "bp1": "Ex: Music Bot",
+  "bp2":"Ex: 1185552042681442355",
+  "bp3":"Ex: !",
+  "hosted":"1187766955072032839",
+  "host":"1186790492160143452",
+  "sendhost":"**Your link hosted successfully**",
+  "bp4":"Ex: MtE4tqMjM1NQq.Gp-",
+   "bq3": "Enter Your Bot Prefix:",
+ "completed": "1187766955072032839",
+  "bq": "What project do you want?",
+  "bq2": "Enter Your Bot Id:",
+  "bq4": "Enter Your Bot Token",
+    "q1": "ناوت چییە؟",
+   "q2": "تەمەنت چەند ساڵە؟",
+  
+    "q3": "Where Are You From?",
+  
+    "q4": "رۆژانە بۆ ماوەی چەند سەعات ئەکتیڤ دەبیت؟",
+    "q5": "بۆچی دەتەوێت داواکاری پێشکەش بکەیت؟",
+  
+  
+  
+  "zq1":"What's Your Name?",
+  "zh1":"ناسناو",
+  "email":"Email:",
+  "zemail":":ئیمەیڵ",
+  "zq2":"How Old Are You?",
+  "zh2":"تەمەن",
+  "zq3":"You Can Support Zoyo?",
+  "zh3":"دەتوانیت سەپۆرتی زۆیۆ بکەیت؟",
+  "zq4":"Why do you want submit apply?",
+  "zh4":"بۆچی دەتەوێت داواکاری پێشکەش بکەیت",
+  "zstaffid":"1188933881840287825",
+  "zdone":"**Your submit successfully sended.**",
+  
+  
+    "staffid":"1153295425009356841",
+    "embedcolor":"#0779f2",
+    "title":"Apply for team",
+    "donesend":"**داواکارییەکەت بە سەرکەوتوی ناردرا**",
+    "nomessage":"**تۆ وەرنەگیرایت**",
+    "yesmessage":"**تۆ وەرگیراویت**",
+  "send": "**Wait, we'll get your bot online.**"
+    }
